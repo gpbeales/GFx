@@ -3,8 +3,7 @@
   "configurePresets": [
     {
       "name": "default",
-      "displayName": "Visual Studio 2022 (x64)",
-      "generator": "Visual Studio 17 2022",
+      "displayName": "Default (newest Visual Studio, x64)",
       "architecture": "x64",
       "binaryDir": "${sourceDir}/build"
     }

@@ -2,7 +2,7 @@
 
 ## Requirements (all free)
 
-- [Visual Studio 2022 Community](https://visualstudio.microsoft.com/vs/community/) with the **Desktop development with C++** workload (provides the MSVC compiler)
+- [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/) (2022 or newer) with the **Desktop development with C++** workload (provides the MSVC compiler)
 - [CMake](https://cmake.org/) 3.25+
 - Optional editor: [VS Code](https://code.visualstudio.com/) with the C/C++ and CMake Tools extensions
 
