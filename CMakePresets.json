@@ -3,7 +3,8 @@
   "configurePresets": [
     {
       "name": "default",
-      "displayName": "Default (newest Visual Studio, x64)",
+      "displayName": "Visual Studio 2026 (x64)",
+      "generator": "Visual Studio 18 2026",
       "architecture": "x64",
       "binaryDir": "${sourceDir}/build"
     }
