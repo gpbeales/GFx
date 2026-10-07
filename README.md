@@ -1,4 +1,8 @@
-# GFx
+<p align="center">
+  <img src="Logo.png" alt="GFx">
+</p>
+
+A customised Render Hardware Interface to work with all major platforms and graphics APIs.
 
 ## Requirements (all free)
 
