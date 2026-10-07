@@ -1,0 +1,12 @@
+# Build output
+build/
+out/
+
+# IDE
+.vs/
+.vscode/*
+!.vscode/extensions.json
+*.user
+
+# vcpkg
+vcpkg_installed/
