@@ -4,7 +4,6 @@
 
 - [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/) 2026 with the **Desktop development with C++** workload (provides the MSVC compiler)
 - [CMake](https://cmake.org/) 3.25+
-- Optional editor: [VS Code](https://code.visualstudio.com/) with the C/C++ and CMake Tools extensions
 
 ## Build and run
 
